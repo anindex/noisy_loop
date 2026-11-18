@@ -1,0 +1,11 @@
+Continuous Noisy-Loop Models
+Copyright 2026 An T. Le
+
+Original software is licensed under Apache-2.0; see LICENSE.
+Research prose, figures and manuscript material retain their author's rights.
+
+examples/data/readout_iq.npz contains measured IQ calibration arrays from
+quantumjim/soft_information_decoding, commit
+5ef9a62f638b5ee6b276c16f63189b1ce10540a8.
+Copyright (c) 2023 Maurice D. Hanisch; examples/data/LICENSE applies.
+See docs/reproduction.md for the source and extraction details.
